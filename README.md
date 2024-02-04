@@ -1,6 +1,7 @@
 
 
 # Bank Passbook System
+- https://bank-passbook.netlify.app/
 
 ## Description
 
@@ -39,8 +40,4 @@ This project implements a simple Bank Passbook System where users can enter tran
 - `index.html`: Main HTML file.
 - `results.html`: HTML file for displaying results.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
