@@ -23,7 +23,7 @@ This project implements a simple Bank Passbook System where users can enter tran
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/bank-passbook-system.git
+   git clone https://github.com/IshwarSinghBhandari/bank-passbook-system.git
    ```
 
 2. Open the `index.html` file in your web browser.
